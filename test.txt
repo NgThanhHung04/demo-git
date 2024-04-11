@@ -1,0 +1,3 @@
+Đây là file test.txt
+Push thử lên SmartGit
+Dùng SmartGit
